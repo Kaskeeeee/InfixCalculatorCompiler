@@ -18,12 +18,16 @@ From Linux shell:
 
 ```bash
 ./a.out [inputFile]
+OR
+./a.out [inputFile] [outputFile.c]
 ```
 
 From Windows prompt:
 
-```
+```bash
 ./a.exe [inputFile]
+OR
+./a.out [inputFile] [outputFile.c]
 ```
 
 If you want to run only the calculator, you can do as follow:
