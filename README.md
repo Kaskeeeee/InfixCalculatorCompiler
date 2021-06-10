@@ -27,7 +27,7 @@ From Windows prompt:
 ```bash
 ./a.exe [inputFile]
 OR
-./a.out [inputFile] [outputFile.c]
+./a.exe [inputFile] [outputFile.c]
 ```
 
 If you want to run only the calculator, you can do as follow:
