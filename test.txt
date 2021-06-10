@@ -1,0 +1,13 @@
+a = 5
+b = 2
+if a <= b then b * b else a * a
+a = 2
+c = b * b - 1
+if (c == c) then a-1 else b
+b = 12
+12-64/8
+if True then a else b
+a == a
+b == a
+c == a
+exit
